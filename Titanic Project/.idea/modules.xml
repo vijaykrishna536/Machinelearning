@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Digit Recognition/.idea/Digit Recognition.iml" filepath="$PROJECT_DIR$/../Digit Recognition/.idea/Digit Recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FlightPricePridiction/.idea/FlightPricePridiction.iml" filepath="$PROJECT_DIR$/../FlightPricePridiction/.idea/FlightPricePridiction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" filepath="$PROJECT_DIR$/../KMeans/.idea/KMeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectWorkFlightP/.idea/ProjectWorkFlightP.iml" filepath="$PROJECT_DIR$/../ProjectWorkFlightP/.idea/ProjectWorkFlightP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stock Price Pridiction/.idea/Stock Price Pridiction.iml" filepath="$PROJECT_DIR$/../Stock Price Pridiction/.idea/Stock Price Pridiction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Titanic Project.iml" filepath="$PROJECT_DIR$/.idea/Titanic Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YouTubePython/.idea/YouTubePython.iml" filepath="$PROJECT_DIR$/../YouTubePython/.idea/YouTubePython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../packageML01/.idea/packageML01.iml" filepath="$PROJECT_DIR$/../packageML01/.idea/packageML01.iml" />
+    </modules>
+  </component>
+</project>

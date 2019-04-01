@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Stock Price Pridiction" />
+    <orderEntry type="module" module-name="Digit Recognition" />
+    <orderEntry type="module" module-name="KMeans" />
+    <orderEntry type="module" module-name="packageML01" />
+    <orderEntry type="module" module-name="YouTubePython" />
+    <orderEntry type="module" module-name="FlightPricePridiction" />
+    <orderEntry type="module" module-name="ProjectWorkFlightP" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
